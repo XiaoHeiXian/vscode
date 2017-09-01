@@ -1,4 +1,5 @@
-#这是注释吗
-#试一下同步代码呗
-#再改一下pull，看看
-print("hello world!")
+# -- coding: utf-8 --
+# 居然不能中文注释
+# 有没有搞错
+# 还能不能愉快地py了
+print "hello world!"
